@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm John EMil</h1>
+<h1 align="center">Hi 👋, I'm John Emil</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
 - 🔭 I’m currently working on [E-Commerce project](https://e-trades.netlify.app/)
