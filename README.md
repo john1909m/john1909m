@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **johnemil21@yahoo.com**
 
+- Check My portfolio https://john1909portfolio.netlify.app/
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/18hA6j60dbxEmKstC9mmLOJ3AWigGRnOV/view?usp=sharing](https://drive.google.com/file/d/18hA6j60dbxEmKstC9mmLOJ3AWigGRnOV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
