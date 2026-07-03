@@ -123,7 +123,7 @@ Responsive e-commerce frontend — clean component architecture, Context API & p
 ### `// currently_learning`
 
 ```
-→ System Design    → Microservices    → Spring Security    → Flutter    → UI/UX
+→ System Design    → Microservices    → Spring Security    → UI/UX
 ```
 
 ---
