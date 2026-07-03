@@ -4,11 +4,9 @@
 
 <div align="center">
 
-```
-// hello_world.exe
-```
 
-<h1 style="color:#e6f1ff">John Emil <span style="color:#3b82f6">.</span> Ramzy</h1>
+
+<h1 style="color:#e6f1ff">John Emil <span style="color:#3b82f6"></span> Ramzy</h1>
 
 **`Software Engineer / Full Stack Developer / Egypt 🇪🇬`**
 
